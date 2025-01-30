@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTMzNDQ4Nzk3NDI3MjA0NTEzOQ.G1GiA5.gZpZycWFCC2NuaNPFYLlZZz6fc1AjGHZUEQoQc",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://faddyok:<db_password>@fattle.xhh3v.mongodb.net/?retryWrites=true&w=majority&appName=Fattle",
